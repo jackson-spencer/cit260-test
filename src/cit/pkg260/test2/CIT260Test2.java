@@ -3,12 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cit.pkg260.test;
+package cit.pkg260.test2;
 
 /**
  *
  * @author hedgehog
  */
-public class Test {
+public class CIT260Test2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }
